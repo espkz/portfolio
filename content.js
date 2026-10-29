@@ -22,8 +22,8 @@ window.portfolioContent = {
       period: "Sep 2026 – Current",
       location: "Remote",
       highlights: [
-        "Building a speech-enabled AI roleplay agent with Python, LangChain, and OpenAI APIs, integrating speech recognition and text-to-speech for 100+ users.",
-        "Developing a speech-based AI agent that documents and identifies dementia symptoms in patients."
+        "Continue developing a speech-enabled AI roleplay agent serving 100+ users.",
+        "Address security findings for an AWS-hosted speech agent for dementia-symptom documentation, with planned work on a modular multi-agent architecture."
       ]
     },
     {
